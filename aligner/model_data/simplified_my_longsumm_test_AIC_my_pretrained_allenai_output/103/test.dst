@@ -1,0 +1,5 @@
+The maximum inner product search ( mips ) is an important task that has a wide wide applicability in recommendation systems and classification with a large number of classes .
+The solutions based on hashing ( lsh ) as well as tree-based solutions have been investigated in the recent to perform very simple approach for solving solving mips .
+This is based on different kinds of k-means clustering algorithm .
+we propose to train a spherical kmeans , reduced the mips problem having to problems with a maximum problem .
+On two standard experiments

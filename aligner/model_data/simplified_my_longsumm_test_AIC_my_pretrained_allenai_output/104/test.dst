@@ -1,0 +1,5 @@
+Most recent designs have focused on performance properties such as latency and throughput .
+In this paper , we look at a new size , management complexity , which tries to understand the complexity of using a topology and expanding it .
+In his lifecycle management , we look at complexity metrics for lifecycle management , and show that existing topology have low lifecycle management complexity by management complexity by some but not by others .
+we design a new class of topologies , fatclique , that , while performance-equivalent to existing topologies , is to , or better them by all our lifecycle management complexity ( management complexity metrics ) .
+the past our past

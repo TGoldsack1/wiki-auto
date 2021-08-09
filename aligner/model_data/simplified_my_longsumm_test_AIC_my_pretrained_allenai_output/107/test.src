@@ -1,0 +1,6 @@
+they suggest a new method to train gans .
+they start training them at low resolution ( 4x4 ) , wait until `` convergence '' , then add more convolutions to the existing model to generate and discriminate higher resolutions .
+each new block of convolutions is slowly blended in , instead of being added from one batch to the next .
+combined with two new normalization techniques , they get good-looking images at up to 1024x1024 on their new celeba-hq dataset ( celeba in high resolution ) .
+they also suggest a new scoring method based on the approximated wasserstein distance between real and generated image patches .
+according to that score , their progressive

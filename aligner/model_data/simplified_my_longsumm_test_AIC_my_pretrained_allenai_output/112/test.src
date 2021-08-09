@@ -1,0 +1,5 @@
+scalable atomic visibility with ramp transactions – bailis et al .
+2014 ramp transactions came up last week as part of the secret sauce in coordination avoidance in database systems that contributed to a 25x improvement on the tpc-c benchmark .
+so what exactly are ramp transactions and why might we need them ?
+as soon as you partition your database across multiple servers , things start to get interesting .
+we ’ d like to maintain atomic isolation – either all of a transaction ’ s effects are visible or none are – for transactions that span partitions… the status quo for these multi-partition atomic transactions

@@ -1,0 +1,5 @@
+the paper presents a framework that uses diverse suboptimal world models that can be used to break complex policies into simpler and modular sub-policies .
+given a task , both the sub-policies and the controller are simultaneously learned in a bottom-up manner .
+the framework is called as model primitive hierarchical reinforcement learning ( mphrl ) .
+idea instead of learning a single transition model of the environment ( aka world model ) that can model the transitions very well , it is sufficient to learn several ( say k ) suboptimal models ( aka model primitives ) .
+each model primitive will be good in only a small part of the state

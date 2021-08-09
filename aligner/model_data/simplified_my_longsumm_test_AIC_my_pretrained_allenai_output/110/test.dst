@@ -1,0 +1,4 @@
+The teaching machine is to read natural language documents which are still used .
+It can be tested on their ability to answer questions on the contents of documents that they have but until now large training and test have been missing for this type of evaluation .
+In this work we define a new methodology that shows this bottleneck and provides a large amount of reading data .
+This allows us to develop a class of attention based deep networks that learn to read real and answer complex questions with a very little amount of questions from the language .

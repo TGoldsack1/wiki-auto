@@ -1,0 +1,3 @@
+a critical of existing inverse reinforcement learning ( irl ) methods is to show how good the demonstrator is .
+This is because irl usually seeks a reward function that makes the demonstrator near-optimal , rather than inferring the underlying of the demonstrator that may have been practice .
+In this paper , we introduce a novel reward-learning-from-observation this paper , we introduce a novel reward-learning-from-observation reward that extrapolates beyond a set of ( approximately ) ranked demonstrations in order to get a reward-from-observation reward functions from a set of potentially poor when combined with reinforcement learning , t-rex outperforms state-of-the-s to get to learn to learn a few things .

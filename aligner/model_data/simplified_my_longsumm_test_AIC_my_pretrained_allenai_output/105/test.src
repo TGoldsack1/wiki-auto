@@ -1,0 +1,3 @@
+kv-direct : high-performance in-memory key-value store with programmable nic li et al. , sosp ’ 17 we ’ ve seen some pretty impressive in-memory datastores in past editions of the morning paper , including farm , ramcloud , and drtm .
+but nothing that compares with kv-direct : with 10 programmable nic cards in a commodity server , we achieve 1.22 billion kv operations per second , which is almost an order-of-magnitude improvement over existing systems , setting a new milestone for a general-purpose in-memory key-value store .
+check out the bottom line in this comparison table from the evaluation : ( enlarge ) in addition to sheer speed ,

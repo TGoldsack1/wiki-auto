@@ -1,0 +1,4 @@
+rpcvalet : ni-driven tail-aware balancing of µs-scale rpcs daglis et al. , asplos ’ 19 last week we learned about the [ increased tail-latency sensitivity of microservices based applications with high rpc fan-outs .
+seer uses estimates of queue depths to mitigate latency spikes on the order of 10-100ms , in conjunction with a cluster manager .
+today ’ s paper choice , rpcvalet , operates at latencies 3 orders of magnitude lower , targeting reduction in tail latency for services that themselves have service times on the order of a small number of µs ( e.g. , the average service time for memcached is approximately 2µs ) .
+the net result of rapid advancements in

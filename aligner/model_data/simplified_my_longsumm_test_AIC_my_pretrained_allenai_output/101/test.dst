@@ -1,0 +1,4 @@
+In real-world traffic , an autonomous car must evaluate the consequences of its potential actions by anticipating the uncertain intentions of other traffic participants .
+This paper presents an integrated behavioral behavioral inference and decision-making approach that models vehicle for both our vehicle and nearby vehicles as a set of closedloop policies that make the actions of other agents .
+each policy a different behavior and intention , such as driving along the lane or turning at an intersection .
+we first use bayesian changepoint on the observed history of states states states states that are nearby to estimate that the state has a population .

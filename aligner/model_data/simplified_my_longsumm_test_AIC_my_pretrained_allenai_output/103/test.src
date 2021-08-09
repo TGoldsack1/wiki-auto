@@ -1,0 +1,5 @@
+` update 2015/11/23 : since i first wrote this note , i became involved in the next iterations of this work , which became v2 of the arxiv manuscript .
+the notes below were made based on v1. ` this paper considers the problem of maximum inner product search ( mips ) .
+in mips , given a query $ q $ and a set of inputs $ x_i $ , we want to find the input ( or the top n inputs ) with highest inner product , i.e .
+$ argmax_i q ' x_i $ .
+recently , it was shown that a simple transformation to the query and input vectors made it possible to approximately solve mips using hashing methods

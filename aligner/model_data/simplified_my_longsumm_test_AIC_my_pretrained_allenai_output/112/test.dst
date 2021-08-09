@@ -1,0 +1,7 @@
+This database can provide by partitioning data across several different servers .
+server .
+Its transactional access is often expensive .
+It employs coordination-intensive coordination-intensive mechanisms .
+Accordingly , many realworld systems mechanisms that provide useful semantics for people to incorrect for a large class of including secondary indexing , indexing , foreign key enforcement , and view maintenance .
+In this we identify a work , we identify a new model number of atomic matches the requirements of these use cases by making the atomic visibility : either all or none of each transaction commemorates of each transactions updates are seen by other transactions .
+we present other algorithms for read that look like the algorithm .

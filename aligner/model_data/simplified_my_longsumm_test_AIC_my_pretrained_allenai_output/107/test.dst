@@ -1,0 +1,7 @@
+we a new training methodology for making adversarial network .
+The key idea is to grow both the generator and discriminator starting from a low resolution .
+This we layers that are made for training from a low resolution .
+This speeds the training up and greatly stabilizes it , allowing us to produce images of unprecedented e .
+g , which gives a record inception score of 8.80 in unsupervised cifar10 , and achieve a record inception score of 8.80 in unsupervised cifar10 .
+we describe several implementations that are different to unhealthy competition between the generator and discriminator .
+finally , we between suggest a new metric we suggest that a new metric we suggest

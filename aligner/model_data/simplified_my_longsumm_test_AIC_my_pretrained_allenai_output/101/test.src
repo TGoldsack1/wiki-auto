@@ -1,0 +1,5 @@
+this paper presents an integrated behavioral anticipation and decision-making system that models behavior for both our vehicle and nearby vehicles as the result of closed-loop policies .
+only a finite set of a priori known policies are considered .
+bayesian changepoint detection is used to estimate which policy a given vehicle was executing at each point in its history of actions , then infer the likelihood of each potential intention of the vehicle .
+a statistical test is proposed based on changepoint detection to identify anomalous behavior of other vehicles , such as driving in the wrong direction or swerving out of lanes .
+evidence

@@ -1,0 +1,5 @@
+performance in-memory in-memory key-value continues to be of great importance as modern kvs goes beyond the traditional object-caching workload and becomes a key infrastructure to people in data centers .
+recent years have witnessed a rapid increase of network bandwidth in data centers .
+They changed the bottleneck of most kvs from the network to network to the cpu .
+However , the primitives provided by rdma abstraction are rather meanwhile , nics become in data centers , centers , paper , we present kv-direct , kv-direct , kv-direct , kv-direct , and present a processing .
+In this paper , we present a high kvs that are used to make rdma primitives and

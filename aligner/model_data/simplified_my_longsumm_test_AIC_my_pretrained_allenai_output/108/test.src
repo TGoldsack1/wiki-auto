@@ -1,0 +1,5 @@
+in this paper , the authors proposed a method for convexifying convolutional neural networks to train them without backpropagation .
+furthermore , this relaxation to the convex setting allows for theoretical proofs of bounds on the generalization error .
+succinctly , they propose to use rkhs and the kernel trick to lift the data into a high-dimensional space that is expressive enough to capture certain nonlinear activation functions .
+hence , on experiments on mnist and cifar-10 , they show that they can outperform smaller cnns by “ convexifying ” them .
+they note that their method doesn ’ t work with max pooling or very deep cnns with lots of bells and

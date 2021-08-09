@@ -1,0 +1,5 @@
+beat : asynchronous bft made practical duan et al. , ccs ’ 18 reaching agreement ( consensus ) is hard enough , doing it in the presence of active adversaries who can tamper with or destroy your communications is much harder still .
+that ’ s the world of byzantine fault tolerance ( bft ) .
+we ’ ve looked at practical bft ( pbft ) and honeybadger on previous editions of the morning paper .
+today ’ s paper , beat , builds on top of honeybadger to offer bft with even better latency and throughput .
+asynchronous bft protocols are arguably the most appropriate solutions for building high-assurance and intrusion-tolerant permissioned blockchains in wide-are ( wan ) environments , as these asynchronous protocols

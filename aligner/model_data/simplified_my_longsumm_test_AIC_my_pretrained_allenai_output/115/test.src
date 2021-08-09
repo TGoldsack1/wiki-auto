@@ -1,0 +1,5 @@
+the paper looks at the problem of learning structured exploration policies for training rl agents .
+structured exploration consider a stochastic , parameterized policy πθ ( a|s ) where θ represents the policy-parameters .
+to encourage exploration , noise can be added to the policy at each time step t. but the noise added in such a manner does not have any notion of temporal coherence .
+another issue is that if the policy is represented by a simple distribution ( say parameterized unimodal gaussian ) , it can not model complex time-correlated stochastic processes .
+the paper proposes to condition the policy on per-episode random variables ( z ) which are sampled

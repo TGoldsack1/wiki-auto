@@ -1,0 +1,5 @@
+virtual democracy is an approach to automated decisions , by learning models of the preferences of individual people , and , at runtime , making the predicted preferences of those people on the dilemma at hand .
+one of the key questions is which aggregation method or voting rule name to use .
+We offer a book that gives people to do this .
+we seek voting rules that are able to prediction errors , in that their output on people list , is likely to be the same as output on noisy estimates thereof .
+we prove that the borda count rule is robust in this whereas any voting rule belonged to the family of people who lived there .

@@ -1,0 +1,6 @@
+the paper presents the task of abductive nlp ( pronounced as alpha nlp ) where the model needs to perform abductive reasoning .
+abductive reasoning is the inference to the most plausible explanation .
+even though it is considered to be an important component for understanding narratives , the work in this domain is sparse .
+a new dataset called as abstractive reasoning in narrative text ( art ) consisting of 20k narrative contexts and 200k explanations is also provided .
+the dataset models the task as multiple-choice questions to make the evaluation process easy .
+task setup given a pair of observations o1 and o2 and two hypothesis

@@ -1,0 +1,7 @@
+build a supervised reading comprehension data set using news corpus .
+compare the performance of neural models and state-of-the-art natural language processing model on reading comprehension task .
+reading comprehension estimate conditional probability p ( a|c , q ) , where c is a context document , q is a query related to the document , and a is the answer to that query .
+dataset generation use online newspapers ( cnn and dailymail ) and their matching summaries .
+parse summaries and bullet points into cloze style questions .
+generate corpus of document-query-answer triplets by replacing one entity at a time with a placeholder .
+data anonymized and randomised using coreference systems ,

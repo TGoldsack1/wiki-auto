@@ -1,0 +1,4 @@
+understanding lifecycle management complexity of datacenter topologies zhang et al. , nsdi ’ 19 there has been plenty of interesting research on network topologies for datacenters , with clos-like tree topologies and expander based graph topologies both shown to scale using widely deployed hardware .
+this research tends to focus on performance properties such as throughput and latency , together with resilience to failures .
+important as these are , note that they ’ re also what ’ s right in front of you as a designer , and relatively easy to measure .
+the great thing about today ’ s paper is that the authors look beneath the surface to consider the less visible

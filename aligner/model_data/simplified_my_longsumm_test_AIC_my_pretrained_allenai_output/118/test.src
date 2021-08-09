@@ -1,0 +1,6 @@
+an empirical analysis of anonymity in zcash kappos et al. , usenix security ’ 18 as we ’ ve seen before , in practice bitcoin offers little in the way of anonymity .
+zcash on the other hand was carefully designed with privacy in mind .
+it offers strong theoretical guarantees concerning privacy .
+so in theory users of zcash can remain anonymous .
+in practice though it depends on the way those users interact with zcash .
+today ’ s paper choice , ‘ an empirical analysis of anonymity in zcash ’ studies how identifiable transaction participants are in practice based on the 2,242,847 transactions in the blockchain at the time of the

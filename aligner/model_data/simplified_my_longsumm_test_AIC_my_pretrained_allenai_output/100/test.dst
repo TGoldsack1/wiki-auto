@@ -1,0 +1,6 @@
+we present beat , a set of practical environments for completely asynchronous environments .
+beat flexible , versatile , and extensible , which is made of five bft .
+These are designed to be different , different scenarios .
+This is because modularity in its design , of these protocols can be mixed to achieve even more meaningful trade in different applications .
+In terms of both latency and throughput , we show that beat is efficient : roughly , all our beat instances significantly outperform , in terms of both latency and throughput , honeybadgerbft , honeybadgerbft , and the most efficient asynchronous bft known .
+Other pages

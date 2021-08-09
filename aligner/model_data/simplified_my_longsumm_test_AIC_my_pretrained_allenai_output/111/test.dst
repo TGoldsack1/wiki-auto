@@ -1,0 +1,8 @@
+modern online services come with quality requirements in terms of response time tail latency .
+Because of their decomposition into communicating software layers , a user request fans out into a plethora of short , faster inter-server in reaction to communication .
+In reaction to that need , we are witnessing a technological transition characterized by the emergence of hardware-terminated user-level ( e .
+g , infiniband / rdma ) and architectures with network interfaces ( nis ) .
+such interfaces offer a opportunity for a new ni-driven for a new approach to stop rpcs among the cores of manycore tail .
+This offers tail latency rpcs .
+we introduce rpcvalet , introduce ni-driven an ni-driven μs-scale rpcs .
+It is found in major

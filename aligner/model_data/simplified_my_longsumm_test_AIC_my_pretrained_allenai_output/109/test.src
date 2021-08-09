@@ -1,0 +1,9 @@
+proposes a novel , end-to-end architecture for generating short email responses .
+single most important benchmark of its success is that it is deployed in inbox by gmail and assists with around 10 % of all mobile responses .
+.
+challenges in deploying smart reply in a user-facing product responses must always be of high quality .
+ensured by constructing a target response set to select responses from .
+the likelihood of choosing the responses must be maximised .
+ensured by normalising the responses and enforcing diversity .
+the system should not add latency to emails .
+ensured by using a triggering model to decide if the email

@@ -1,0 +1,4 @@
+We a new framework for estimating generative models via an adversarial process , process , in which we simultaneously train two generative model g that captures the data distribution , and a model that estimates the probability that a sample came from the training data rather than the training procedure for g is to change the probability of making a mistake .
+This corresponds to a mistake .
+A Game game .
+In the space of arbitrary functions g and d , a solution exists , with g recovering the training data distribution and equal to 1 in the case where g and by multilayer are defined .

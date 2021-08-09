@@ -1,0 +1,5 @@
+class we describe the class of neural networks ( ccns ) , which capture the parameter sharing of neural networks in a convex manner on the parameter .
+by representing the nonlinear convolutional filters as vectors in a kernel hilbert space , the parameters can be as a low-rank matrix , which can be relaxed to get a convex problem .
+For learning two-layer convolutional we prove that the generalization error was taken by a convexified converges to that of the cnn .
+learning deeper we ccns train in a layer-wise manner on the train .
+empirically , ccns trained performance competitively with cns cnns .

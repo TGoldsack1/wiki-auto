@@ -1,0 +1,5 @@
+statiscal foundations of virtual democracy kahng et al. , icml ’ 19 this is another paper on the theme of combining information and making decisions in the face of noise and uncertainty – but the setting is quite different to those we ’ ve been looking at recently .
+consider a food bank that receives donations of food and distributes it to those in need .
+the goal is to implement an automated decision making system such that when a food donation is received , the system outputs the organisation ( e.g .
+housing authority or food pantry ) that should receive it .
+we could hard code a set of

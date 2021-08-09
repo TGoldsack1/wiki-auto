@@ -1,0 +1,4 @@
+the paper proposes an adversarial approach for estimating generative models where one model ( generative model ) tries to learn a data distribution and another model ( discriminative model ) tries to distinguish between samples from the generative model and original data distribution .
+adversarial net two models - generative model ( g ) and discriminative model ( d ) both are multi-layer perceptrons .
+g takes as input a noise variable z and outputs data sample x ( =g ( z ) ) .
+d takes as input a data sample x and predicts whether it came from true data or from g. g tries to minimise log ( 1-d ( g ( z ) ) ) while d tries to maximise the probability

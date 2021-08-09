@@ -1,0 +1,3 @@
+uncertainty propagation in data processing systems manousakis et al. , socc ’ 18 when i ’ m writing an edition of the morning paper , i often imagine a conversation with a hypothetical reader sat in a coffee shop somewhere at the start of their day .
+there are three levels of takeaway from today ’ s paper choice : if you ’ re downing a quick espresso , then it ’ s good to know that uncertainty can creep into our data in lots of different ways , and if you compute with those uncertain values as if they were precise , errors can compound quickly leading to incorrect results or false confidence .
+if
